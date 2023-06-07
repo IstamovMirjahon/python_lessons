@@ -3,7 +3,7 @@
 Created on Tue May  2 05:24:07 2023
 
 @author: Istamov Mirjahon
-python -->>"9"-dars
+python -->>"11"-dars
 """
 #yosh = int(input("Yoshingiz nechchida = "))
 #if yosh<=4:
